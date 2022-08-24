@@ -1,8 +1,6 @@
 1- Enter the config file for nano $HOME/.kujira/config/config.toml. This command is made .kujira for kujira, .sei for sei, .defund for defund, .stafihub, haqq....
 ## /root/.kujira/config/config.toml
 
-@font-face{
-font-family: orbitron;
 a- We find proxy_app port in config.toml file. By default it uses port 26658. Let's change it to 36658.
 ![proxty](https://user-images.githubusercontent.com/98549582/186489610-95cdf375-d6f6-4e11-aa59-61dccf1b54c3.PNG)
 
