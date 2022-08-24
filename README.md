@@ -34,5 +34,3 @@ b- We find a second address port in the app.toml file. By default, port 9091 is 
 
 a- We find a second node port in the client.toml file. By default, port 26657 is used. Let's change it to 36657.
 ![node](https://user-images.githubusercontent.com/98549582/186490324-e68de88b-f264-48e3-96ce-b69d1b81166a.PNG)
-font-family: orbitron, verdana, sans-serif;
-}
